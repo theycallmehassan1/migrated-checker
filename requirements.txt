@@ -1,4 +1,2 @@
-termcolor
-threading
-itertools
-urllib3
+# No third-party dependencies. Uses only the Python standard library
+# (socket, csv, argparse, dataclasses, time).
